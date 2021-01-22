@@ -1,0 +1,6 @@
+bucket = "iaac-terraform"
+key = "tfstates/project-iaac/terraform.tfstate"
+region = "sa-east-1"
+profile = "default"
+dynamodb_table = "terraform_state"
+encrypt = "true"
